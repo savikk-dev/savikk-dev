@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Sava 👋
 
-<!--
-**savikk-dev/savikk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Frontend Developer
 
-Here are some ideas to get you started:
+I create modern, clean, and fully responsive websites (landing pages, multi-page sites, and service cards). I write clean code, meet deadlines, and stay in touch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Tech Stack: HTML5, CSS3, JavaScript (ES6+), Responsive Design
+- 🌐 Live Portfolio: [Savik Portfolio](https://savikk-dev.github.io/Portfolio/)
+- 📬 Get in touch: [Contact on Telegram](https://t.me/lilsavikk)
+
+***
+
+### 💼 Featured Projects
+
+- 🏔️ MNTN Landing Page — [View Project](https://savikk-dev.github.io/Portfolio/mtn/index.html)
+- 💈 Barbershop Landing Page — [View Project](https://savikk-dev.github.io/Portfolio/barbershop-landing/index.html)
